@@ -8,6 +8,13 @@
   display: none;
 }
 
+link[rel="icon"] {
+	border-radius: 50%;
+	width: 32px;
+	height: 32px;
+	margin-top: 5px;
+}
+
 body {
   padding: 2rem;
   width: 100%;
